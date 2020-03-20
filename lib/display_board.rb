@@ -7,6 +7,6 @@ puts"    | X |   "
 puts" -----------"
 puts"  X | O |   "
 
-end 
+end
 
 display_board(1)
